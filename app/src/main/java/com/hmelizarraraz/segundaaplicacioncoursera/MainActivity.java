@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         intent.putExtra(getResources().getString(R.string.pemail), etEmail.getText().toString());
         intent.putExtra(getResources().getString(R.string.pdescripcion), etDescripcion.getText().toString());
         startActivity(intent);
-        finish();
     }
 
 }

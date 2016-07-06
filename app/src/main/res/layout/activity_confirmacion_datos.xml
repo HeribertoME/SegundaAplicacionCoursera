@@ -72,6 +72,7 @@
         />
 
     <Button
+        android:id="@+id/btnEditar"
         android:layout_width="@dimen/boton_width"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorAccent"
