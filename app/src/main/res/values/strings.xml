@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">SegundaAplicacionCoursera</string>
+    <string name="app_name">Aplicacion Coursera</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+
+    <string name="ptitulo">Confirmar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="boton_editar">Editar Datos</string>
 </resources>
