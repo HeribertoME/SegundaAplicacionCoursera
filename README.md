@@ -7,4 +7,5 @@
 ![Alt text](/screenshots/screen_3.png?raw=true "Pantalla 3")
 ![Alt text](/screenshots/screen_4.png?raw=true "Pantalla 4")
 ![Alt text](/screenshots/screen_5.png?raw=true "Pantalla 5")
+![Alt text](/screenshots/screen_6.png?raw=true "Pantalla 6")
 
